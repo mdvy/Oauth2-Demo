@@ -1,0 +1,130 @@
+.last-step-section.svelte-1d2og0a {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px
+}
+
+@media (min-width: 768px) {
+    .last-step-section.svelte-1d2og0a {
+        padding-top: 60px;
+        padding-bottom: 60px
+    }
+}
+
+@media (min-width: 1200px) {
+    .last-step-section.svelte-1d2og0a {
+        display: flex;
+        justify-content: center;
+        padding-top: 90px;
+        padding-bottom: 90px
+    }
+}
+
+@media (min-width: 1200px) and (min-height: 800px) {
+    .last-step-section.svelte-1d2og0a {
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+}
+
+@media (min-width: 1200px) and (min-height: 1100px) {
+    .last-step-section.svelte-1d2og0a {
+        padding-top: 110px;
+        padding-bottom: 110px
+    }
+}
+
+@media (min-width: 992px) {
+    .last-step-section.svelte-1d2og0a {
+        align-items: center
+    }
+}
+
+.last-step-section__container.svelte-1d2og0a {
+    width: 100%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+@media (min-width: 375px) {
+    .last-step-section__container.svelte-1d2og0a {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+}
+
+@media (min-width: 568px) {
+    .last-step-section__container.svelte-1d2og0a {
+        padding-left: 20px;
+        padding-right: 20px
+    }
+}
+
+@media (min-width: 568px) {
+    .last-step-section__container.svelte-1d2og0a {
+        width: 520px
+    }
+}
+
+@media (min-width: 992px) {
+    .last-step-section__container.svelte-1d2og0a {
+        width: 940px
+    }
+}
+
+@media (min-width: 992px) {
+    .last-step-section__container.svelte-1d2og0a {
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+}
+
+.last-step-image.svelte-1d2og0a {
+    display: block;
+    width: 125px;
+    height: 144px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+@media (min-width: 992px) {
+    .last-step-image.svelte-1d2og0a {
+        padding-top: 7px
+    }
+}
+
+.last-step-controls.svelte-1d2og0a {
+    margin-top: 40px
+}
+
+@media (min-width: 992px) {
+    .last-step-controls.svelte-1d2og0a {
+        width: 340px;
+        margin-left: auto;
+        margin-right: auto
+    }
+}
+
+@media (min-width: 992px) {
+    .last-step-content.svelte-1d2og0a {
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto
+    }
+}
+
+.last-step-form.svelte-1d2og0a {
+    width: 100%
+}
+
+@media (min-width: 375px) {
+    .last-step-form.svelte-1d2og0a {
+        max-width: 360px;
+        margin-left: auto;
+        margin-right: auto
+    }
+}

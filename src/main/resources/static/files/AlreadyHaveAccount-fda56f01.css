@@ -1,0 +1,31 @@
+.already-have-account.svelte-8mq40a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 30px 0
+}
+
+@media (min-width: 375px) {
+    .already-have-account.svelte-8mq40a {
+        max-width: 360px;
+        margin-left: auto;
+        margin-right: auto
+    }
+}
+
+.already-have-account__label.svelte-8mq40a {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    margin-right: 15px
+}
+
+.already-have-account__label.save-progress.svelte-8mq40a {
+    color: #fff
+}
+
+.already-have-account__label.last-step.svelte-8mq40a {
+    color: #012f69
+}
